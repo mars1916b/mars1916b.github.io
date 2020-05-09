@@ -30,4 +30,5 @@ end
 gem "wdm", "~> 0.1.1", :install_if => Gem.win_platform?
 
 # theme - marsb - free
-gem "minimal-mistakes-jekyll"
+#gem "minimal-mistakes-jekyll"
+gem "jekyll-theme-minimal"
