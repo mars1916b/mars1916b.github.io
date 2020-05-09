@@ -23,10 +23,10 @@ email: dmgl1916@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   Witaj na stronie. Milo Cie widziec.
   Jak cos pisz.
-baseurl: "" # the subpath of your site, e.g. /blog
+#baseurl: "" # the subpath of your site, e.g. /blog
 #baseurl: "/bot" # the subpath of your site, e.g. /blog
 #baseurl: "/swgoh" # the subpath of your site, e.g. /blog
-url: "https://mars1916b.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+#url: "https://mars1916b.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 #marsb#twitter_username: jekyllrb
 #marsb#github_username:  jekyll
 
