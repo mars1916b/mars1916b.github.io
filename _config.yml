@@ -31,7 +31,8 @@ github_username:  jekyll
 
 # Build settings
 ##marsb org ## theme: minima
-theme: minimal-mistakes-jekyll
+#theme: minimal-mistakes-jekyll
+theme: minima
 plugins:
   - jekyll-feed
 
