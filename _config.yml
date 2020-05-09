@@ -30,7 +30,8 @@ twitter_username: dmgl1916
 github_username: dmgl1916
 
 # Build settings
-theme: minima
+##theme: minima
+theme: minimal-mistakes-jekyll
 plugins:
   - jekyll-feed
 
