@@ -6,13 +6,10 @@ permalink: /bot/
 
 Bot discord.
 
-**Zakres**: administracja
-
-**Cel**: pomoc w adm
-
-**Nazwa**: *soon*
-
-**Dostep**: prywatny
+**Zakres**: administracja<br/>
+**Cel**: pomoc w adm<br/>
+**Nazwa**: *soon*<br/>
+**Dostep**: prywatny<br/>
 
 
 
