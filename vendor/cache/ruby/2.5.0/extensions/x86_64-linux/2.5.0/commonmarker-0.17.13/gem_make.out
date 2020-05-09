@@ -1,5 +1,5 @@
 current directory: /marsb/discord/mars1916b.github.io/vendor/cache/ruby/2.5.0/gems/commonmarker-0.17.13/ext/commonmarker
-/usr/bin/ruby -r ./siteconf20200509-31263-8hzutv.rb extconf.rb
+/usr/bin/ruby -r ./siteconf20200509-21241-1kstnvp.rb extconf.rb
 creating Makefile
 
 current directory: /marsb/discord/mars1916b.github.io/vendor/cache/ruby/2.5.0/gems/commonmarker-0.17.13/ext/commonmarker
@@ -65,6 +65,6 @@ gcc -shared -o commonmarker.so arena.o autolink.o blocks.o buffer.o cmark.o cmar
 
 current directory: /marsb/discord/mars1916b.github.io/vendor/cache/ruby/2.5.0/gems/commonmarker-0.17.13/ext/commonmarker
 make "DESTDIR=" install
-/usr/bin/mkdir -p . ./.gem.20200509-31263-1lki59l/commonmarker
+/usr/bin/mkdir -p . ./.gem.20200509-21241-4s8gxh/commonmarker
 exit > .sitearchdir.-.commonmarker.time
-/usr/bin/install -c -m 0755 commonmarker.so ./.gem.20200509-31263-1lki59l/commonmarker
+/usr/bin/install -c -m 0755 commonmarker.so ./.gem.20200509-21241-4s8gxh/commonmarker
