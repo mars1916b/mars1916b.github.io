@@ -14,5 +14,5 @@ Bot discord.
 
 *dzieki za odwiedziny*
 
-{% include icon-github.html username="mars1916b" %}
+#{% include icon-github.html username="mars1916b" %}
 
