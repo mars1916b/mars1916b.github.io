@@ -23,12 +23,12 @@ tagline: Site marsb
 #email: {{ 'dmgl1916@gmail.com' | encode_email }}
 description: >- # this means to ignore newlines until "baseurl:"
   Strona i informacje odemnie.
-  Dobrego przegladania. >-
+  Dobrego przegladania.
   Chcesz to pisz lub wyslij emial.
-baseurl: "/blog" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: ""
-github_username: ""
+  #baseurl: "/blog" # the subpath of your site, e.g. /blog
+  #url: "" # the base hostname & protocol for your site, e.g. http://example.com
+  #twitter_username: ""
+  #github_username: ""
 
 # Build settings
 theme: minima
