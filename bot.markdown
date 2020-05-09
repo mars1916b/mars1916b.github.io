@@ -7,9 +7,13 @@ permalink: /bot/
 Bot discord.
 
 **Zakres**: administracja
+
 **Cel**: pomoc w adm
+
 **Nazwa**: *soon*
+
 **Dostep**: prywatny
+
 
 
 *dzieki za odwiedziny*
