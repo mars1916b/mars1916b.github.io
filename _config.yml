@@ -33,7 +33,8 @@ github_username:  mΔrsb
 paginate: 5                # nums of posts in one page
 
 # Build settings
-theme: minima
+##theme: minima
+theme: jekyll-theme-minimal
 plugins:
   - jekyll-feed
   - jekyll-seo-tag
