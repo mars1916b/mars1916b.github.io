@@ -23,6 +23,9 @@ group :jekyll_plugins do
   gem 'jemoji'
   gem 'jekyll-paginate'
   gem "jekyll-seo-tag", "~> 2.6"
+  gem 'geo_pattern'
+  gem 'kramdown'
+  gem 'pygments.rb'
 end
 
 # Windows and JRuby does not include zoneinfo files, so bundle the tzinfo-data gem
