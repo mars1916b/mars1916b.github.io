@@ -30,12 +30,13 @@ twitter_username: mΔrsb
 github_username:  mΔrsb
 
 # Build settings
-paginate: 10                # nums of posts in one page
+paginate: 5                # nums of posts in one page
 
 # Build settings
 theme: minima
 plugins:
   - jekyll-feed
+  - jekyll-seo-tag
   - jekyll-sitemap
   - jekyll-email-protect
   - jemoji
