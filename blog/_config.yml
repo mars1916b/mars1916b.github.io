@@ -18,21 +18,30 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Your awesome title
-email: your-email@example.com
+title: mArsb
+tagline: Site marsb
+#email: {{ 'dmgl1916@gmail.com' | encode_email }}
 description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
-  #baseurl: "" # the subpath of your site, e.g. /blog
-  #url: "" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: jekyllrb
-github_username:  jekyll
+  Strona i informacje odemnie.
+  Dobrego przegladania. >-
+  Chcesz to pisz lub wyslij emial.
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "" # the base hostname & protocol for your site, e.g. http://example.com
+twitter_username: ""
+github_username: ""
 
 # Build settings
 theme: minima
+
+#theme: jekyll-theme-leap-day
+
+#theme: jekyll-theme-cayman
+
 plugins:
   - jekyll-feed
+  - jekyll-sitemap
+  - jekyll-email-protect 
+  - jemoji
 
 # Exclude from processing.
 # The following items will not be processed, by default.
@@ -42,7 +51,10 @@ plugins:
 # Excluded items can be processed by explicitly listing the directories or
 # their entries' file path in the `include:` list.
 #
-# exclude:
+exclude:
+   - Gemfile
+   - Gemfile.lock
+#   - node_modules/
 #   - .sass-cache/
 #   - .jekyll-cache/
 #   - gemfiles/
