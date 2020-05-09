@@ -44,6 +44,11 @@ plugins:
 sidebar: true   # default true
 sidebar-about-description: "your description here"
 sidebar-avatar: /img/avatar-hux.jpg     # use absolute URL.
+
+# Featured Tags
+featured-tags: true
+featured-condition-size: 1     # A tag will be featured if the size of it is more than this condition value
+
 # Exclude from processing.
 # The following items will not be processed, by default.
 # Any item listed under the `exclude:` key here will be automatically added to
