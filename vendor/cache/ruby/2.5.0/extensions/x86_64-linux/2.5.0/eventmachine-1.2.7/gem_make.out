@@ -1,5 +1,5 @@
 current directory: /marsb/discord/mars1916b.github.io/vendor/cache/ruby/2.5.0/gems/eventmachine-1.2.7/ext/fastfilereader
-/usr/bin/ruby -r ./siteconf20200509-21241-k4yla2.rb extconf.rb
+/usr/bin/ruby -r ./siteconf20200509-4543-jancip.rb extconf.rb
 creating Makefile
 
 current directory: /marsb/discord/mars1916b.github.io/vendor/cache/ruby/2.5.0/gems/eventmachine-1.2.7/ext/fastfilereader
@@ -16,6 +16,6 @@ g++ -shared -o fastfilereaderext.so mapper.o rubymain.o -L. -L/usr/lib64 -L. -Wl
 
 current directory: /marsb/discord/mars1916b.github.io/vendor/cache/ruby/2.5.0/gems/eventmachine-1.2.7/ext/fastfilereader
 make "DESTDIR=" install
-/usr/bin/mkdir -p . ./.gem.20200509-21241-aabjvq
+/usr/bin/mkdir -p . ./.gem.20200509-4543-1waqj60
 exit > .sitearchdir.time
-/usr/bin/install -c -m 0755 fastfilereaderext.so ./.gem.20200509-21241-aabjvq
+/usr/bin/install -c -m 0755 fastfilereaderext.so ./.gem.20200509-4543-1waqj60

@@ -1,5 +1,5 @@
 current directory: /marsb/discord/mars1916b.github.io/vendor/cache/ruby/2.5.0/gems/ffi-1.12.2/ext/ffi_c
-/usr/bin/ruby -r ./siteconf20200509-21241-ek8voo.rb extconf.rb
+/usr/bin/ruby -r ./siteconf20200509-4543-3wspyn.rb extconf.rb
 checking for ffi.h... no
 checking for ffi.h in /usr/local/include,/usr/include/ffi... no
 checking for shlwapi.h... no
@@ -364,6 +364,6 @@ Variadic.c:106:11: warning: variable ‘convention’ set but not used [-Wunused
 gcc -I"/marsb/discord/mars1916b.github.io/vendor/cache/ruby/2.5.0/gems/ffi-1.12.2/ext/ffi_c/libffi-x86_64-linux"/include -I. -I/usr/include -I/usr/include/ruby/backward -I/usr/include -I. -DRUBY_EXTCONF_H=\"extconf.h\"    -fPIC -O2 -g -pipe -Wall -Werror=format-security -Wp,-D_FORTIFY_SOURCE=2 -Wp,-D_GLIBCXX_ASSERTIONS -fexceptions -fstack-protector-strong -grecord-gcc-switches -specs=/usr/lib/rpm/redhat/redhat-hardened-cc1 -specs=/usr/lib/rpm/redhat/redhat-annobin-cc1 -mtune=generic -fasynchronous-unwind-tables -fstack-clash-protection -fcf-protection -fPIC -m64 -o ffi.o -c ffi.c
 rm -f ffi_c.so
 gcc -shared -o ffi_c.so AbstractMemory.o ArrayType.o Buffer.o Call.o ClosurePool.o DynamicLibrary.o Function.o FunctionInfo.o LastError.o LongDouble.o MappedType.o MemoryPointer.o MethodHandle.o Platform.o Pointer.o Struct.o StructByValue.o StructLayout.o Thread.o Type.o Types.o Variadic.o ffi.o -L. -L/usr/lib64 -L. -Wl,-z,relro  -Wl,-z,now -specs=/usr/lib/rpm/redhat/redhat-hardened-ld -fstack-protector-strong -rdynamic -Wl,-export-dynamic -Wl,-z,relro  -Wl,-z,now -specs=/usr/lib/rpm/redhat/redhat-hardened-ld -m64  -m64  "/marsb/discord/mars1916b.github.io/vendor/cache/ruby/2.5.0/gems/ffi-1.12.2/ext/ffi_c/libffi-x86_64-linux"/.libs/libffi_convenience.a -lruby    -lc
-/usr/bin/mkdir -p . ./.gem.20200509-21241-1brmuol
+/usr/bin/mkdir -p . ./.gem.20200509-4543-u9tzhh
 exit > .sitearchdir.time
-/usr/bin/install -c -m 0755 ffi_c.so ./.gem.20200509-21241-1brmuol
+/usr/bin/install -c -m 0755 ffi_c.so ./.gem.20200509-4543-u9tzhh
