@@ -1,6 +1,7 @@
 ---
 layout: page
 title: swgoh
+cover-img: /assets/img/space01.jpg
 subtitle: gra swgoh
 ---
 
