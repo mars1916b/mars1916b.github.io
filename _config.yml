@@ -20,6 +20,7 @@ navbar-links:
     - Beautiful Jekyll: "https://beautifuljekyll.com"
     - Learn markdown: "https://www.markdowntutorial.com/"
     - Nav-footer-page: "https://www.freepik.com/free-photos-vectors/banner"
+    - WallpersStarWars: "https://www.wallpaperflare.com/search?wallpaper=star+wars"
   Author's home: "https://mars1916b.github.io"
 
 # --- Logo --- #
@@ -98,8 +99,8 @@ footer-link-col: "#404040"
 # instead of colour
 
 navbar-img: "/assets/img/bgimage.png"
-footer-img: "/assets/img/bgimage.png"
-page-img: "/assets/img/backgr.png"
+footer-img: "/assets/img/space01.jpg"
+page-img: "/assets/img/space01.png"
 
 # --- Web Statistics Section --- #
 
