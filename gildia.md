@@ -12,6 +12,7 @@ Gram w swgoh.
 
 ### Zakon Sith
 
+{% highlight javascript linenos %}
 *Spokój to kłamstwo - jest tylko pasja  
 
 Dzięki pasji osiągam siłę  
@@ -23,6 +24,7 @@ Dzięki potędze osiągam zwycięstwo
 Dzięki zwycięstwu zrywam łańcuchy  
 
 Moc mnie oswobodzi*  
+{% endhighlight %}
 
 
 
