@@ -14,8 +14,8 @@ Wiecej wkrótce.
 
 | Nazwa | gracz | priorytet |
 | :------ |:--- | :--- |
-| 0ne | one | main |
-| Two | two | alt |
+| 0ne | mΔrsb | main |
+| Two | DMGΞmL | alt |
 
 
 *dzieki za odwiedziny*
