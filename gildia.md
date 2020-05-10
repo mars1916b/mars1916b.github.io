@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Gildia
-cover-img: /assets/img/dv.jpg
+cover-img: /assets/img/SithLord.jpg
 subtitle: Razem w gildii swgoh
 ---
 
