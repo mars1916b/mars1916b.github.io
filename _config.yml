@@ -13,6 +13,7 @@ author: mΔrsb
 
 navbar-links:
   About Me: "aboutme"
+  Bot: "bot"
   Resources:
     - Beautiful Jekyll: "https://beautifuljekyll.com"
     - Learn markdown: "https://www.markdowntutorial.com/"
