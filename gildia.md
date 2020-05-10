@@ -12,12 +12,17 @@ Gram w swgoh.
 
 ### Zakon Sith
 
-*Spokój to kłamstwo - jest tylko pasja
-Dzięki pasji osiągam siłę
-Dzięki sile osiągam potęgę
-Dzięki potędze osiągam zwycięstwo
-Dzięki zwycięstwu zrywam łańcuchy
-Moc mnie oswobodzi*
+*Spokój to kłamstwo - jest tylko pasja  
+
+Dzięki pasji osiągam siłę  
+
+Dzięki sile osiągam potęgę  
+
+Dzięki potędze osiągam zwycięstwo  
+
+Dzięki zwycięstwu zrywam łańcuchy  
+
+Moc mnie oswobodzi*  
 
 
 
