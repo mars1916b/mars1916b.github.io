@@ -20,17 +20,17 @@ Wiecej wkrótce.
 
 *dzieki za odwiedziny*
 
-### Notification
+### O grze
 
 {: .box-note}
 **Gra:** swgoh
 
-### Error
+### O Gildii
 
 {: .box-error}
 **Nazwa:** *soon*<br/>
 
-### Warning
+### O bot
 
 {: .box-warning}
 **Dane:** *soon*<br/>
