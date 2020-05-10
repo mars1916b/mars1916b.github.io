@@ -10,15 +10,7 @@ Gram w swgoh.
 
 Wiecej wkrótce.
 
-### Dane
 
-
-**Nazwa**: *soon*<br/>
-**Dane**: *soon*<br/>
-
-
-
-*dzieki za odwiedziny*
 
 ### O grze
 
@@ -34,3 +26,8 @@ Wiecej wkrótce.
 
 {: .box-warning}
 **Dane:** *soon*<br/>
+
+
+
+
+*dzieki za odwiedziny*
