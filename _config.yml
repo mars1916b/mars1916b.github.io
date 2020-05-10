@@ -99,8 +99,8 @@ footer-link-col: "#404040"
 # instead of colour
 
 navbar-img: "/assets/img/dz.jpg"
-footer-img: "/assets/img/swdroid.jpg"
-page-img: "/assets/img/starw01.jpg"
+footer-img: "/assets/img/starwar01.jpg"
+page-img: "/assets/img/swdroid.jpg"
 
 # --- Web Statistics Section --- #
 
