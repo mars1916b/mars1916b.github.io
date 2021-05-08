@@ -7,7 +7,7 @@ subtitle: Razem w gildii swgoh
 
 Gram w swgoh.
 
-- marsbot
+- marsbot :one:
 
 
 ### Zakon Sith
@@ -28,7 +28,7 @@ Moc mnie oswobodzi*
 
 
 
-Wiecej wkrótce.  :+1:!   :-)
+Wiecej wkrótce.  :+1:   :star:
 
 
 
