@@ -28,7 +28,7 @@ Moc mnie oswobodzi*
 
 
 
-Wiecej wkrótce.
+Wiecej wkrótce.  :+1:!   :-)
 
 
 
