@@ -15,8 +15,9 @@ Wiecej wkrótce.
 
 | Nazwa | gracz | priorytet |
 | :------ |:--- | :--- |
-| 0ne | mΔrsb | main |
-| Two | DMGΞmL | alt |
+| 1. | SitΔri | main |
+| 2. | mΔrsb | main |
+| 3. | DarthDeath | alt |
 
 
 *dzieki za odwiedziny*
