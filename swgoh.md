@@ -21,13 +21,14 @@ Wiecej wkrótce.
 
 ### Zaangazowanie
 
-@startmermaid
+```mermaid!
 Zaangażowanie
   "SitΔri" : 100
   "mΔrsb" : 100
   "DarthDeath" : 10
-@endmermaid
+```
 
+---
 *dzieki za odwiedziny*
 
 |--|--|--|--|--|--|--|--|
