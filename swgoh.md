@@ -19,6 +19,14 @@ Wiecej wkrótce.
 | 2. | mΔrsb | main |
 | 3. | DarthDeath | alt |
 
+### Zaangazowanie
+
+@startmermaid
+Zaangażowanie
+  "SitΔri" : 100
+  "mΔrsb" : 100
+  "DarthDeath" : 10
+@endmermaid
 
 *dzieki za odwiedziny*
 
