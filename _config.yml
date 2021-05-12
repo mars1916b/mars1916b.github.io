@@ -198,7 +198,7 @@ timezone: "Europe/Warsaw"
 markdown: kramdown
 highlighter: rouge
 permalink: /:year-:month-:day-:title/
-paginate: 5
+paginate: 10
 
 kramdown:
   input: GFM
@@ -233,12 +233,20 @@ exclude:
   - screenshot.png
   - docs/
 
+###remote_theme: jeffreytse/jekyll-theme-yat
+theme: jekyll-theme-yat
+
 plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+  - jekyll-sitemap
   - jekyll-paginate
+  - jekyll-spaceship
+  - jekyll-remote-theme
   - jekyll-sitemap
   - jemoji
   - jekyll-archives
-  - jekyll-spaceship
+
 
 # Beautiful Jekyll / Dean Attali
 # 2fc73a3a967e97599c9763d05e564189
