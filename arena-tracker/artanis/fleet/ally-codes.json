@@ -1,0 +1,24 @@
+[
+  {
+  "comment": "Artanis fleet",
+  "discordId": "412169765805621248",
+  "name": "Artanis",
+  "allyCode": "921262712",
+  "tagIdOnClimb": "@artanis_fleet_climb",
+  "tagIdOnDrop": "@artanis_fleet_drop",
+  "userIcon": "\:flag_pl:"
+  },
+  {
+  "comment": "Hunta-zmien",
+  "allyCode": "756443564",
+  "tagIdOnClimb": "",
+  "userIcon": "\<:enemy:804828293256839178\> "
+  },
+  {
+  "comment": "Мария-zmien",
+  "name": "",
+  "allyCode": "445523849",
+  "tagIdOnClimb": "",
+  "userIcon": "\<:enemy:804828293256839178\> "
+  }
+]
