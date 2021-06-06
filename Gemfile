@@ -3,7 +3,7 @@
 source "https://rubygems.org"
 
 gemspec
-gem "nokogiri", ">= 1.11.4"
+gem "nokogiri", ">= 1.11.5"
 gem 'jemoji'
 gem 'jekyll-archives'
 gem 'jekyll-spaceship'
