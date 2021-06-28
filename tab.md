@@ -5,7 +5,7 @@ cover-img: /assets/img/space01.jpg
 subtitle: gra swgoh tablica
 ---
 
-Tab swgoh
+Tablica swgoh
 
 - info
 
