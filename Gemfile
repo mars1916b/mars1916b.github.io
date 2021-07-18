@@ -8,4 +8,5 @@ gem 'jemoji'
 gem 'jekyll-archives'
 gem 'jekyll-spaceship'
 gem "jekyll-theme-yat"
+gem "addressable", ">= 2.8.0"
 ###gem "github-pages", group: :jekyll_plugins
